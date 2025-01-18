@@ -36,7 +36,3 @@ The analysis includes the following steps:
 ## Conclusion
 
 This analysis provides valuable insights into the Super Store's operations, helping to identify key areas of strength and opportunities for improvement.
-
-## License
-
-This project is licensed under the MIT License.
